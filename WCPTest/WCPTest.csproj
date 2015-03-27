@@ -308,6 +308,7 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Web.config" />
     <Content Include="Views\CodeGenerator\Start.cshtml" />
+    <Content Include="Views\CodeGenerator\_CodeGeneratorLayout.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
